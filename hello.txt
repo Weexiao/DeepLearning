@@ -1,11 +1,1 @@
-hello world
-hello world
-hello world
-hello world
-hello world
-hello world
-hello world
-holy shit   23232323
-wtf
-wuhu
-fuck dddd
+简简单单测试一下git能不能用罢了
